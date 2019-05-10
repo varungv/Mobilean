@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mobilearn_UI/static/css/main.34de6062.chunk.css",
+    "main.js": "/Mobilearn_UI/static/js/main.a9d73f33.chunk.js",
+    "main.js.map": "/Mobilearn_UI/static/js/main.a9d73f33.chunk.js.map",
+    "runtime~main.js": "/Mobilearn_UI/static/js/runtime~main.c330644a.js",
+    "runtime~main.js.map": "/Mobilearn_UI/static/js/runtime~main.c330644a.js.map",
+    "static/js/2.7d00d74e.chunk.js": "/Mobilearn_UI/static/js/2.7d00d74e.chunk.js",
+    "static/js/2.7d00d74e.chunk.js.map": "/Mobilearn_UI/static/js/2.7d00d74e.chunk.js.map",
+    "index.html": "/Mobilearn_UI/index.html",
+    "precache-manifest.5700f82a7cc77acd231a7b75905a4280.js": "/Mobilearn_UI/precache-manifest.5700f82a7cc77acd231a7b75905a4280.js",
+    "service-worker.js": "/Mobilearn_UI/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/Mobilearn_UI/static/css/main.34de6062.chunk.css.map"
+  }
+}
